@@ -1,0 +1,63 @@
+# カラースキーマの変更
+[[plugins]]
+repo = 'nanotech/jellybeans.vim'
+
+# ファイルオープンを便利に
+[[plugins]]
+repo = 'Shougo/unite.vim'
+
+# Unite.vimで最近使ったファイルを表示できる様にする
+[[plugins]]
+repo = 'Shougo/neomru.vim'
+
+# uniteでのasync file検索に必要
+[[plugins]]
+repo = 'Shougo/vimproc.vim'
+build = 'make -f make_mac.mak'
+
+#ファイルディレクトリをtree表示
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
+# コメントのON / OFF のショートカットキー追加
+[[plugins]]
+repo = 'tomtom/tcomment_vim'
+
+# Git を便利に使う
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+
+# vim javascript
+[[plugins]]
+repo = 'pangloss/vim-javascript'
+
+# js syntac highlight
+[[plugins]]
+repo = 'othree/yajs.vim'
+
+# es version対応
+[[plugins]]
+repo = 'othree/es.next.syntax.vim'
+
+# jsx syntax plugins
+[[plugins]]
+repo = 'maxmellon/vim-jsx-pretty'
+
+# code保管
+[[plugins]]
+repo = 'ternjs/tern_for_vim'
+
+# local eslit
+[[plugins]]
+repo = 'scrooloose/syntastic'
+[[plugins]]
+repo = 'pmsorhaindo/syntastic-local-eslint.vim'
+
+# gitからの変更内容の表示
+[[plugins]]
+repo = 'airblade/vim-gitgutter'
+
+# 半角スペースの可視化
+[[plugins]]
+repo = 'bronson/vim-trailing-whitespace'
+ 

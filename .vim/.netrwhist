@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/kanuchi34/Projects/onocolo/client/src/components'
+let g:netrw_dirhist_2='/Users/kanuchi34/Projects/pn/work/n-sum/n-sum'
+let g:netrw_dirhist_3='/Users/kanuchi34/Projects/onocolo/onocolo-local-media-editor/video/fonts'
+let g:netrw_dirhist_4='/Users/kanuchi34/Projects/pn/work/n-ref-crawler/config/environments'
+let g:netrw_dirhist_5='/Users/kanuchi34/Projects/pn/work/n-sum/job-worker/.bundle'
+let g:netrw_dirhist_6='/Users/kanuchi34/Projects/onocolo/server/api/config/deploy'
+let g:netrw_dirhist_7='/Users/kanuchi34/.zplug'
+let g:netrw_dirhist_8='/usr/local/lib/mecab/dic/mecab-ipadic-neologd'
+let g:netrw_dirhist_9='/Users/kanuchi34/Projects/onocolo/client/ios/fastlane'
